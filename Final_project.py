@@ -519,7 +519,7 @@ class WindowClass(QMainWindow, form_class) :
         self.qPixmapFileVar = self.qPixmapFileVar.scaled(800,450)
         self.label.setPixmap(self.qPixmapFileVar)
         
-#############Squre############################################################################
+#############Square############################################################################
         
 
     def Square_Function(self) :
