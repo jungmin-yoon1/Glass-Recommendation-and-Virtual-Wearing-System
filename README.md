@@ -1,4 +1,4 @@
-## Glass Recommendation and Virtual Wearing System through Face shape Analysis
+## Glass Recommendation and Virtual Wearing System through Face Shape Analysis
 
 - 사용자의 얼굴형을 분석한 후 얼굴형에 적절한 안경을 추천하고 추천 안경 및 여러 안경들을 가상 착용시켜 주는 시스템
 - 얼굴형 분석을 위해 Machine learning object detection 알고리즘인 CascadeClassifier, detectMultiScale, OpenCV를 이용해 얼굴을 인식
