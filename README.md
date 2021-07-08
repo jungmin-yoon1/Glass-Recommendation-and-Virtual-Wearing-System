@@ -10,11 +10,10 @@
 <img src="https://user-images.githubusercontent.com/58179712/124855170-895bd800-dfe3-11eb-8b40-8de599a58804.png"  width="300">
 
 #### 얼굴형 인식
-<img src="https://user-images.githubusercontent.com/58179712/124855165-882aab00-dfe3-11eb-8883-70a067c499ab.png"  width="300">
+<img src="https://user-images.githubusercontent.com/58179712/124856115-ee63fd80-dfe4-11eb-972f-c259845ddbcf.png"  width="300">
 
 #### 가상 안경 착용
-<img src="https://user-images.githubusercontent.com/58179712/124855168-88c34180-dfe3-11eb-8629-c1edb3068b31.png"  width="300">
+<img src="https://user-images.githubusercontent.com/58179712/124856127-f328b180-dfe4-11eb-978c-056bbdfa37a0.png"  width="300">
 
 #### GUI 구성
-<img src="https://user-images.githubusercontent.com/58179712/124855176-8bbe3200-dfe3-11eb-8fc7-46a5629ce3b9.png"  width="300">
-
+<img src="https://user-images.githubusercontent.com/58179712/124856136-f6bc3880-dfe4-11eb-9e68-6b51733e8f4c.PNG"  width="600">
