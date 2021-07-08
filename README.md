@@ -6,4 +6,15 @@
 - 분류한 얼굴형에 적합한 안경을 추천하고 눈의 위치를 나타내는 landmark를 이용하여 가상 착용한 모습 보여줌
 - 위 기술들을 하나의 GUI를 통해 구현 
 
+#### Landmark 추출
+<img src="https://user-images.githubusercontent.com/58179712/124855170-895bd800-dfe3-11eb-8b40-8de599a58804.png"  width="300">
+
+#### 얼굴형 인식
+<img src="https://user-images.githubusercontent.com/58179712/124855165-882aab00-dfe3-11eb-8883-70a067c499ab.png"  width="300">
+
+#### 가상 안경 착용
+<img src="https://user-images.githubusercontent.com/58179712/124855168-88c34180-dfe3-11eb-8629-c1edb3068b31.png"  width="300">
+
+#### GUI 구성
+<img src="https://user-images.githubusercontent.com/58179712/124855176-8bbe3200-dfe3-11eb-8fc7-46a5629ce3b9.png"  width="300">
 
